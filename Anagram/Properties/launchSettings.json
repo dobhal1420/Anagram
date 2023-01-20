@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Anagram": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Experiment\\BestSecret\\Anagram\\wordlist.txt \\\\\\\"Best-Secret\\\\\\\""
+    }
+  }
+}
